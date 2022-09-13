@@ -1,5 +1,7 @@
-#ifndef MAIN_H
-#define MAIN_H
+#ifndef MAIN_H_CHY
+#define MAIN_H_CHY
+
+#include<stdio.h>
 
 int _putchar(char);
 void print_alphabet(void);
